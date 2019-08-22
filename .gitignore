@@ -1,5 +1,3 @@
-*.css
-paralax_example.html
-wedding_example.html
-index_old.html
-wget-log
+_site
+.sass-cache
+.jekyll-metadata

@@ -56,6 +56,21 @@ body, html {
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
 
+.row {
+  display: flex;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.column {
+  float: left;
+}
+.left {
+  width: 50%;
+}
+.right {
+  width: 50%;
+}
+
 /* Turn off parallax scrolling for tablets and phones
 @media only screen and (max-device-width: 1600px) {
   .bgimg-1, .bgimg-2, .bgimg-3 {
@@ -134,28 +149,11 @@ body, html {
         <h3> Officiate and grandfather of the groom <h3/>
           <p class="w3-large"> Rev. Jerry Couch </p>
       </div>
-      <div class="w3-half">
-        <h3> Bride's Party </h3>
-          <ul>
-            <li> Rebecca Salazar - Maid of Honor </li>
-            <li> Sylvia Butanda </li>
-            <li> Olivia Suarez </li>
-            <li> Allison Barry </li>
-            <li> Kat Adame </li>
-            <li> Tabitha Woody - Junior Bridesmaid </li>
-          </ul>
-      </div>
-      <div class="w3-half">
-        <h3> Groom's Party </h3>
-          <ul>
-            <li> Stefan Eccles - Best Man </li>
-            <li> Ellora Couch </li>
-            <li> James Le </li>
-            <li> Ethan Linscott </li>
-            <li> Giorgos Stratis </li>
-            <li> Fernando Carmona jr. - Junior Groomsman </li>
-          </ul>
-      </div>
+    </div>
+
+    <!- Brides Party and Groom's Party Bios -->
+    {% include wedding_party.html %}
+
       <div class="w3-col">
         <h3> Flower Girls and grandmother's of the groom <h3/>
           <ul>
