@@ -128,43 +128,7 @@ body, html {
 </div>
 
 <!-- Wedding information -->
-<div class="w3-content w3-container w3-padding-64 w3-center" id="wedding">
-  <div class="w3-content">
-    <h1 class=""><b>THE WEDDING</b></h1>
-
-    <div class="w3-row">
-      <div class="w3-half">
-        <h2>When</h2>
-        <p>Ceremony - 3:00pm</p>
-        <p>Reception - 6:00pm</p>
-      </div>
-      <div class="w3-half">
-        <h2>Where</h2>
-        <p> Ceremony - On the beach </p>
-        <p> Reception - Schlitterbahn Resort, South Padre Island, TX </p>
-      </div>
-    </div>
-
-    <div class="w3-row">
-      <div class="w3-col">
-        <h3> Officiate and grandfather of the groom <h3/>
-          <p class="w3-large"> Rev. Jerry Couch </p>
-      </div>
-    </div>
-
-    <!- Brides Party and Groom's Party Bios -->
-    {% include wedding_party.html %}
-
-      <div class="w3-col">
-        <h3> Flower Girls and grandmother's of the groom <h3/>
-          <ul>
-            <li class="w3-large"> Eleanor Couch </li>
-            <li class="w3-large"> Mary Holcomb </li>
-          </ul>
-      </div>
-    </div>
-  </div>
-</div>
+{% include wedding_info.html %}
 
 <!-- Third Parallax Image -->
 <div class="bgimg-3 w3-display-container w3-opacity-min">

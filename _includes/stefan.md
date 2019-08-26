@@ -1,0 +1,4 @@
+
+#### Stefan Eccles - Best Man
+
+Stefan and Josiah met when they started grad school together in Fall of ’13.   Both intended to work in the high energy theory group at UT Austin.  Now, six years later, they share an office and they’ve published multiple research papers together.  Though physics brought them together, it certainly isn’t their only mutual interest.  In the early days, they bonded over beer and bar trivia, which was mostly an excuse to discuss the nature of logic, language, consciousness and soap bubbles (don’t ask).   Stefan looks up to Josiah for his multi-dimensional nerdiness and his reliability as a dear friend through the thick and thin of grad school.  Josiah puts up with Stefan, probably out of gratitude that Stefan overlooks his bad music taste (be warned, Josiah tolerates country music and will likely play some at the wedding).
