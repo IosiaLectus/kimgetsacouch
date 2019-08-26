@@ -1,29 +1,15 @@
 
 
-No love story starts with salads. It starts with a margarita pitcher from Polvo’s.
+You can find a lot of things at Central Market, organic chocolate, coffee, and the love of your life, apparently. That was the case for Kim and Josiah.
 
-As much as Kim complains about Central Market, it is actually one of her favorite places in Austin. One day after work, she was looking for a sandwich as she felt too lazy to cook. She accidentally bumps into a tall man with long hair and glasses.
+As Kim was shopping for lunch one day, she bumped into the man who would change her life forever (spoiler alert).
 
+After some small talk, Kim and Josiah exchanged numbers and were on their way. After some back and forth texting, Josiah was eager to take Kim out for margaritas (her favorite beverage, obviously), but she was too busy getting ready for her best friend, Rebecca’s birthday celebration that weekend.
 
-She apologizes, and he starts to make small talk with her. And this is where their stories are different. Josiah argues that he asked for her number. Kim disagrees; she gave him her number.
+The stars didn’t seem to be aligning for these two to hang out as soon as they would’ve liked, but Kim knew this was a chance she had to take. She asked her best friend if Josiah could join the festivities, and to her surprise, Rebecca said yes!
 
+Josiah joined Kim and her entire friend group for drinks and dancing on West 6th Street. The chemistry between the two was instant, and everyone kept asking them how long they had been dating not knowing this was their first (unofficial) date. Kim loved Josiah’s confidence on the dance floor and had an amazing time dancing the night away.
 
-But the story doesn’t matter because he eventually asked her out on a date after a few days of talking over the phone (to Kim’s dismay).
+The next day, Kim invited Josiah to take a walk around her neighborhood to get to know each other without the heavy bass booming in the background. They walked for a few hours, talking about their goals, fears, and families. They both knew this connection was something special.
 
-
-Kim and Josiah were supposed to go on a date on Oct. 9 until Kim remembered that it was Rebecca’s (her roommate and future MOH) birthday celebration that night. She apologized to Josiah hoping that he wouldn’t be mad. He wasn’t. He said that the following week should be fine as long as Kim didn’t have another friend celebrating their birthday that weekend.
-
-
-For Rebecca’s celebrations, their friend group went to Polvo’s eat and order margarita pitchers in the honor of the birthday girl. They talked. They laughed. And more margaritas were served.
-
-
-Kim found herself texting Josiah and eventually decided to take the bullet. She asked the birthday girl if Josiah could join them on West 6th Street. Rebecca said yes.
-
-
-After a bit of bar hopping, Josiah meets Kim, Rebecca and the rest of their friends at the Ranch, a three-story bar. Josiah was awkward in meeting Kim and her friends, but it got less and less awkward as the night went on. They talked, laughed, danced and enjoyed the night. When the clock struck 2 a.m., he walked the group to their friend Cris’ car who was the designated driver, and then went home.
-
-
-The next day Kim and Rebecca were supposed to go to Plucker’s for Rebecca’s free meal, but she wanted to catch up on her sleep. Kim invited Josiah to take a walk, where they opened up completely on their fears, inspirations, and even about their family.
-
-
-And since that day, Kim and Josiah became inseperable all thanks to Rebecca saying yes to a stranger crashing her birthday celebrations.[a]
+It’s almost hard to believe that a trip to the grocery store, crashing a birthday celebration, and a night full of dancing could lead to this, but they’ve been inseparable ever since.
