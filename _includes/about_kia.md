@@ -1,4 +1,4 @@
 
 #### Kathlyn Adame
 
-She is a bridesmaid. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut arcu a dui suscipit tincidunt eu vel purus. Suspendisse potenti. Quisque accumsan elit id ipsum tempor, finibus egestas lacus scelerisque.
+Kat and Kim met while they were working at Central Market. Although they were working hard, they shared many laughs over the frequent crazy days at work. Kat has taught Kim how to cook traditional Mexican dishes and where the best happy hours are. Kat and Kim are the self-proclaimed Central Market coffee bar dream team.

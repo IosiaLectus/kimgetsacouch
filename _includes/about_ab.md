@@ -1,4 +1,4 @@
 
-#### Ally Barry
+#### Alison Barry
 
-She is a bridesmaid. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut arcu a dui suscipit tincidunt eu vel purus. Suspendisse potenti. Quisque accumsan elit id ipsum tempor, finibus egestas lacus scelerisque.
+Alison met Kim at the University of Texas at Austin when they become study partners for their US History Class. Their friendship blossomed as they sat together, scrolled through Tumblr, laughed and attempted to cram for exams. From that semester on, Alison has been blessed by Kim’s radiant presence in her life.

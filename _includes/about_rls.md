@@ -1,4 +1,4 @@
 
 #### Rebecca Salazar
 
-She is the maid of honor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut arcu a dui suscipit tincidunt eu vel purus. Suspendisse potenti. Quisque accumsan elit id ipsum tempor, finibus egestas lacus scelerisque. 
+Rebecca met Kim on the first day of their freshman year at the University of Texas at Austin. Sharing their love of buffalo chicken pizza, live music, and dorm room dance parties it was a friendship match made in heaven. Through the years, Rebecca has been Kim’s go-to person for career, life, fashion, and love advice. She knew once Rebecca gave her the stamp of approval on her relationship with Josiah that he was the one for life! 
