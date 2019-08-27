@@ -1,5 +1,6 @@
 
 
+<img style="float: right;" src="/img/engagementpic.jpg">
 Kim had always wanted to go to New York City, so when Josiah asked her to visit before his 2-week Princeton summer school session, she was conflicted. She was worried about the state of her financials, her anxiety towards flying, and whether she would get the days off.
 
 “Let’s do it,” she told Josiah.
