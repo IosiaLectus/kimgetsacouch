@@ -76,7 +76,7 @@ Are you staying a few extra days? South Padre Island, Port Isabel and Brownsvill
  	- The Palo Alto Battlefield National Historical Park preserves the site of this notable battle and provides a history on the Mexican-American war.
 
 - [Sabal Palms Sanctuary](http://sabalpalmsanctuary.org/):
- 	- The Sabal Palms Sanctuary harbors one of the most important ecosystems of South Texas and Northern Mexico. 
+ 	- The Sabal Palms Sanctuary harbors one of the most important ecosystems of South Texas and Northern Mexico.
 
 ## Places to Eat
 Places highly recommended by Kim, Kim's friends and family, and Yelp!
