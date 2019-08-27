@@ -38,7 +38,6 @@ Are you staying a few extra days? South Padre Island, Port Isabel and Brownsvill
 	- Take a quick walk through the Laguna Madre Nature Trail. The 1,500-foot boardwalk crosses four acres of marshland, where bird watchers can spot various types of birds. Make sure to bring your camera.
 - [Gravity Park](http://gravitypark.squarespace.com/prices):
 	- Gravity Park gives adventure seekers other options to find their thrill. The park hosts go-karts, mini-golf, the Rocket (a 150' reverse bungee), and the Skycoaster (a giant swing). 
-
 - [Bayside Water Rentals](http://spifun.com/SPI_FUN/HOME_PAGE.html):
 	- If you find yourself wanting to spend the day in the water, you should rent equipment from Bayside Water Rentals. You can rent giant SUPs, paddle boards, kayaks as well as glowing kayaks and paddle boards for evening use. 
 - [Island Adventure Park](https://www.southpadreislandadventures.com/):
@@ -60,11 +59,11 @@ Are you staying a few extra days? South Padre Island, Port Isabel and Brownsvill
 
 ### Brownsville
 - [Gladys Porter Zoo](http://gpz.org/):
- 	- With 28 acres of lush tropical plants and some 1,600 animals, the Gladys Porter Zoo is a great place to spend the day. It's also one of Josiah's favorite places in Brownsville.
+	- With 28 acres of lush tropical plants and some 1,600 animals, the Gladys Porter Zoo is a great place to spend the day. It's also one of Josiah's favorite places in Brownsville.
 - [Palo Alto Battlefield](https://www.nps.gov/paal/index.htm):
- 	- The Palo Alto Battlefield National Historical Park preserves the site of this notable battle and provides a history on the Mexican-American war.
+	- The Palo Alto Battlefield National Historical Park preserves the site of this notable battle and provides a history on the Mexican-American war.
 - [Sabal Palms Sanctuary](http://sabalpalmsanctuary.org/):
- 	- The Sabal Palms Sanctuary harbors one of the most important ecosystems of South Texas and Northern Mexico.
+	- The Sabal Palms Sanctuary harbors one of the most important ecosystems of South Texas and Northern Mexico.
 
 ## Places to Eat
 Places highly recommended by Kim, Kim's friends and family, and Yelp!
