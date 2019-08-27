@@ -109,10 +109,23 @@ body, html {
       {% endcapture %}
       {{ my_include | markdownify }}
       <h3 class="w3-center "><b> She said yes! </b></h2>
-        {% capture my_include %}
-          {% include engagement.md %}
-        {% endcapture %}
-        {{ my_include | markdownify }}
+        <div class="w3=row w3-container">
+          <div class="w3-half">
+            <img src="/img/engagementpic.jpg", style="width:95%">
+          </div>
+          <div class="w3-half">
+            {% capture my_include %}
+              {% include engagement.md %}
+            {% endcapture %}
+            {{ my_include | markdownify }}
+          </div>
+          <div class="w3-col">
+            {% capture my_include %}
+              {% include engagement2.md %}
+            {% endcapture %}
+            {{ my_include | markdownify }}
+          </div>
+        </div>
       <h3 class="w3-center "><b> About Us </b></h2>
         {% capture my_include %}
           {% include about_us.md %}
