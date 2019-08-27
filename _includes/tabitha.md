@@ -1,4 +1,4 @@
 
 #### Tabitha Woody
 
-She is a mess. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut arcu a dui suscipit tincidunt eu vel purus. Suspendisse potenti. Quisque accumsan elit id ipsum tempor, finibus egestas lacus scelerisque.
+Tabitha is Josiah's youngest sister. Josiah loves to tease his little sister and call her a mess. They talk on the phone a few times a week. Tabitha loves her brother but likes to say that she loves Kim more.

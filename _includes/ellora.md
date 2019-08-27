@@ -1,4 +1,4 @@
 
 #### Ellora Couch
 
-She is a groom's babe. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut arcu a dui suscipit tincidunt eu vel purus. Suspendisse potenti. Quisque accumsan elit id ipsum tempor, finibus egestas lacus scelerisque.
+Ellora is Josiah's oldest younger sister and current roommate. They like to try new foods, talk about cultures, and watch Bad Omens.
