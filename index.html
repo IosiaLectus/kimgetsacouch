@@ -140,22 +140,10 @@ body, html {
 <div class="w3-content w3-container w3-padding-64" id="info">
   <div class="w3-content">
     <h1 class="w3-center "><b> Information </b></h1>
-    <p><i> I hope you find this most informative. </i></p><br>
-      <h2 class="w3-center "> Hotel and Transportation <h2/>
-        <h3 class="w3-center"> The Venue - Schlitterbahn Resort SPI<h3/>
-          <p>100 Padre Blvd, South Padre Island, TX 78597</p>
-          <p><a href="https://www.schlitterbahn.com/south-padre-island/resort" >https://www.schlitterbahn.com/south-padre-island/resort </a></p>
-        <h3 class="w3-center"> Other Hotels <h3/>
-        <h3 class="w3-center"> Airports <h3/>
-        <h3 class="w3-center"> Local Transportation <h3/>
-      <h2 class="w3-center "> Things to do at in and around SPI <h2/>
-        <h3 class="w3-center"> The Beach <h3/>
-        <h3 class="w3-center"> Turtles, Inc. <h3/>
-        <h3 class="w3-center"> Birding and Nature Center <h3/>
-        <h3 class="w3-center"> Dolphin Watch <h3/>
-        <h3 class="w3-center"> Dune Buggy and Golf Cart Rentals <h3/>
-        <h3 class="w3-center"> Brownsville <h3/>
-        <h3 class="w3-center"> Progresso <h3/>
+      {% capture my_include %}
+        {% include information.md %}
+      {% endcapture %}
+      {{ my_include | markdownify }}
   </div>
 </div>
 
