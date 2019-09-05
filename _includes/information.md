@@ -3,16 +3,16 @@ Here is some information on getting around the Rio Grande Valley and things to d
 
 ## Hotel
 
-We suggest that you stay at the venue, namely [Schlitterbahn Resort South Padre Island](https://www.schlitterbahn.com/south-padre-island/resort) (address: 100 Padre Blvd, South Padre Island, TX 78597). There are however many other hotels on the Island. You can also try [AirBnB](https://www.airbnb.com/s/South-Padre-Island--TX--United-States/homes?refinement_paths%5B%5D=%2Fhomes&click_referer=t%3ASEE_ALL%7Csid%3Aff3f7ec2-3c29-4c3d-a0bf-e0b29acc6c92%7Cst%3ALANDING_PAGE_MARQUEE&title_type=NONE&place_id=ChIJ761vtJupb4YRIrPbw1yyW00&s_tag=fZUrlnjO&checkin=2020-02-21&checkout=2020-02-23).
+We suggest that you stay at the venue, namely [Schlitterbahn Resort South Padre Island](https://www.schlitterbahn.com/south-padre-island/resort) (address: 100 Padre Blvd, South Padre Island, TX 78597).  There are however many other hotels on the Island. You can also try [AirBnB](https://www.airbnb.com/s/South-Padre-Island--TX--United-States/homes?refinement_paths%5B%5D=%2Fhomes&click_referer=t%3ASEE_ALL%7Csid%3Aff3f7ec2-3c29-4c3d-a0bf-e0b29acc6c92%7Cst%3ALANDING_PAGE_MARQUEE&title_type=NONE&place_id=ChIJ761vtJupb4YRIrPbw1yyW00&s_tag=fZUrlnjO&checkin=2020-02-21&checkout=2020-02-23). If you choose to stay at the venue, we have a block discount, which may be utilized by booking from this [link](https://www.reseze.net/servlet/SendPage?hotelid=1381&skipfirstpage=true&page=747278) or by calling 855-923-7543 and asking to reserve under the Couch-Carmona wedding block. As the wedding is during 'Winter Texan' season, we would recommend reserving a room as early as possible.
 
 ## Airports
 
-The Rio Grande Valley is served by three airports: 
+The Rio Grande Valley is served by three airports:
 - The Brownsville South Padre Island Airport (BRO)
 - The McAllen-Miller International Airport (MFE)
 - The Valley International Airport (HRL) in Harlingen, TX
 
-Kim Tip: Harlingen tends to be the cheapest option when flying into the Rio Grande Valley. 
+Kim Tip: Harlingen tends to be the cheapest option when flying into the Rio Grande Valley.
 
 ## Ground Transportation
 
@@ -27,33 +27,33 @@ Are you staying a few extra days? South Padre Island, Port Isabel and Brownsvill
 ### SPI
 
 - [Sea Turtles Inc.](http://www.seaturtleinc.org/):
-	- Sea Turtle, Inc. is open for visitors year round. They aim to educate the public about sea turtles, and the important job the organization does to save these beautiful animals. 
+	- Sea Turtle, Inc. is open for visitors year round. They aim to educate the public about sea turtles, and the important job the organization does to save these beautiful animals.
 - [South Padre Island Birding and Nature Center](http://www.theworldbirdingcenter.com/Spi.html):
 	- The South Padre Island Birding and Nature Center is one of the best places in the country to observe birds, butterflies and natural wildlife. One of Kim's favorite things to do here is to try to spot the gator that lurks around the water.
 - [Sandy Feet Sandcastle Service](https://www.sandyfeetsandcastleservices.com/):
-	- Want to learn a new skill? Sandy Feet Sandcastle Service can teach you how to build an impressive sandcastle. 
+	- Want to learn a new skill? Sandy Feet Sandcastle Service can teach you how to build an impressive sandcastle.
 - [Lobo Del Mar Activities](https://www.lobodelmaractivities.com/):
-	- For the adventure seekers, we highly recommend Lobo Del Mar Activities. You can go parasailing, take a sunset cruise, go private fishing, and rent a jet ski, kayak or paddleboard. 
+	- For the adventure seekers, we highly recommend Lobo Del Mar Activities. You can go parasailing, take a sunset cruise, go private fishing, and rent a jet ski, kayak or paddleboard.
 - [Laguna Madre Nature Trail](https://www.sopadre.com/listings/laguna-madre-nature-trail/):
 	- Take a quick walk through the Laguna Madre Nature Trail. The 1,500-foot boardwalk crosses four acres of marshland, where bird watchers can spot various types of birds. Make sure to bring your camera.
 - [Gravity Park](http://gravitypark.squarespace.com/prices):
-	- Gravity Park gives adventure seekers other options to find their thrill. The park hosts go-karts, mini-golf, the Rocket (a 150' reverse bungee), and the Skycoaster (a giant swing). 
+	- Gravity Park gives adventure seekers other options to find their thrill. The park hosts go-karts, mini-golf, the Rocket (a 150' reverse bungee), and the Skycoaster (a giant swing).
 - [Bayside Water Rentals](http://spifun.com/SPI_FUN/HOME_PAGE.html):
-	- If you find yourself wanting to spend the day in the water, you should rent equipment from Bayside Water Rentals. You can rent giant SUPs, paddle boards, kayaks as well as glowing kayaks and paddle boards for evening use. 
+	- If you find yourself wanting to spend the day in the water, you should rent equipment from Bayside Water Rentals. You can rent giant SUPs, paddle boards, kayaks as well as glowing kayaks and paddle boards for evening use.
 - [Island Adventure Park](https://www.southpadreislandadventures.com/):
-	- Find your next adventure at Island Adventure Park. You can go horseback riding, ziplining, or visit their petting barn. 
+	- Find your next adventure at Island Adventure Park. You can go horseback riding, ziplining, or visit their petting barn.
 - [Banana Boat Ride](https://parroteyesspi.com/activities/banana-boat-ride/):
 	- Take a ride on the B-A-N-A-N-A boat. And if you fall, you fall.
 - [SkyDive SPI](https://skydivespi.com/):
-	- The biggest thrill that can be found at SkyDive SPI. 
+	- The biggest thrill that can be found at SkyDive SPI.
 
 
 ### Port Isabel
 
 - [Port Isabel Lighthouse](https://tpwd.texas.gov/state-parks/port-isabel-lighthouse):
-	- Fun Fact: Out of 16 lighthouses orginally built along the Texas coast, this lighthouse is the ONLY ONE open to the public. 
+	- Fun Fact: Out of 16 lighthouses orginally built along the Texas coast, this lighthouse is the ONLY ONE open to the public.
 - [Dolphin Watch](http://www.dolphinwatching.info/):
-	- Want to see some dolphins? Book a dolphin watch tour that will make this trip even more memorable. 
+	- Want to see some dolphins? Book a dolphin watch tour that will make this trip even more memorable.
 - [Black Dragon Pirate Ship](http://www.ospreycruises.com/the-black-dragon-pirate-ship/):
 	- If you have ever had the urge to be a pirate, even for a day, taking a cruise on the Black Dragon Pirate Ship is PERFECT for you. You will learn how to fight like a pirate, speak like a pirate, hunt for treasure like a pirate and share the booty.
 
@@ -89,4 +89,3 @@ Places highly recommended by Kim, Kim's friends and family, and Yelp!
 - [Porky's Pit](https://www.facebook.com/PORKYSPITPI)
 - [Causeway Cafe & Bar](https://www.mycausewaycafe.com/)
 - Kim Tip: Isabel's Cafe - State Highway 100 And Port Rd, Port Isabel, TX 78578
-
