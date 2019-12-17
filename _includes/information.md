@@ -3,7 +3,7 @@ Here is some information on getting around the Rio Grande Valley and things to d
 
 ## Hotel
 
-We suggest that you stay at the venue, namely [Beach Resort at South Padre Island](https://www.sopadre.com/listings/beach-resort-at-south-padre-island/) (address: 100 Padre Blvd, South Padre Island, TX 78597).  There are however many other hotels on the Island. You can also try [AirBnB](https://www.airbnb.com/s/South-Padre-Island--TX--United-States/homes?refinement_paths%5B%5D=%2Fhomes&click_referer=t%3ASEE_ALL%7Csid%3Aff3f7ec2-3c29-4c3d-a0bf-e0b29acc6c92%7Cst%3ALANDING_PAGE_MARQUEE&title_type=NONE&place_id=ChIJ761vtJupb4YRIrPbw1yyW00&s_tag=fZUrlnjO&checkin=2020-02-21&checkout=2020-02-23). If you choose to stay at the venue, we have a block discount, which may be utilized by calling 855-923-7543 and asking to reserve under the Couch-Carmona wedding block. As the wedding is during 'Winter Texan' season, we would recommend reserving a room as early as possible.
+We suggest that you stay at the venue, namely [Beach Resort at South Padre Island](http://beachresortspi.com/) (address: 100 Padre Blvd, South Padre Island, TX 78597).  There are however many other hotels on the Island. You can also try [AirBnB](https://www.airbnb.com/s/South-Padre-Island--TX--United-States/homes?refinement_paths%5B%5D=%2Fhomes&click_referer=t%3ASEE_ALL%7Csid%3Aff3f7ec2-3c29-4c3d-a0bf-e0b29acc6c92%7Cst%3ALANDING_PAGE_MARQUEE&title_type=NONE&place_id=ChIJ761vtJupb4YRIrPbw1yyW00&s_tag=fZUrlnjO&checkin=2020-02-21&checkout=2020-02-23). If you choose to stay at the venue, we have a block discount, which may be utilized by calling 855-923-7543 and asking to reserve under the Couch-Carmona wedding block. As the wedding is during 'Winter Texan' season, we would recommend reserving a room as early as possible.
 
 ## Airports
 
@@ -46,6 +46,8 @@ Are you staying a few extra days? South Padre Island, Port Isabel and Brownsvill
 	- Take a ride on the B-A-N-A-N-A boat. And if you fall, you fall.
 - [SkyDive SPI](https://skydivespi.com/):
 	- The biggest thrill that can be found at SkyDive SPI.
+
+	For more info see [https://www.sopadre.com](https://www.sopadre.com).
 
 
 ### Port Isabel
